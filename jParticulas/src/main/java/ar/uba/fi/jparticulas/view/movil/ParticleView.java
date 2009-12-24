@@ -5,6 +5,11 @@ import java.awt.geom.Rectangle2D;
 
 import ar.uba.fi.jparticulas.model.movil.Particle;
 
+/**
+ * Renderiza una partícula con un cuadrado de píxeles.
+ * 
+ * @author mmazzei
+ */
 public class ParticleView extends MovilView {
 	private final short particleSize;
 

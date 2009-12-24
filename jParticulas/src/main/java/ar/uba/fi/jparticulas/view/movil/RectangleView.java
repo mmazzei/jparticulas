@@ -5,6 +5,12 @@ import java.awt.geom.Rectangle2D;
 
 import ar.uba.fi.jparticulas.model.movil.Rectangle;
 
+/**
+ * Renderiza un rectángulo con un área plana con píxeles del mismo color (sin textura ni
+ * transparencias).
+ * 
+ * @author mmazzei
+ */
 public class RectangleView extends MovilView {
 	public RectangleView(Rectangle rectangle) {
 		super(rectangle);
