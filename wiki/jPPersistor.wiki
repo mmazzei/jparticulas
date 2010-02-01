@@ -1,4 +1,5 @@
 #summary Utilidad para la persistencia de un GameEngine.
+#labels Phase-Implementation
 
 = Introducción =
 
